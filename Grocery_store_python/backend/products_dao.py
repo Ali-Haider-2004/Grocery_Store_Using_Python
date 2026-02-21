@@ -1,4 +1,4 @@
-# victor Frankenstein
+# victor Frankenstein   
 # Dao = data access object
 import mysql.connector
 from sql_connection import get_sql_connection
@@ -53,4 +53,5 @@ if __name__ == "__main__":
         'name': 'Cokes',
         'uom_id': 1,
         'price_per_unit': 40.0
+
     }))
